@@ -3,12 +3,16 @@
 This a minimal starter template for react using vite and with added tailwind css. Every unwated files and images have been removed & kindlly change index.html according to your need. Rename your main project folder as per your need & keep the same name in package.json.
 
 # Instruction
-git cmd: 1)git clone https://github.com/isurojit/vite-react-tailwind-starter.git<br/>
-         2)cd .\vite-react-tailwind-starter\<br/>
-         
-npm cmd: 1) npm install<br/>
-         2) npm run dev<br/>
-
+<strong>git cmd: </strong>
+'''
+git clone https://github.com/isurojit/vite-react-tailwind-starter.git<br/>
+cd .\vite-react-tailwind-starter\<br/>
+'''         
+<strong>npm cmd:</strong> 
+'''
+npm install<br/>
+npm run dev<br/>
+'''
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
